@@ -1,5 +1,5 @@
 import { StyledCard } from './styles/Card.styled';
-import images from '../assets/images/illustration-flowing-conversation.svg'
+import images from '../assets/images/illustration-grow-together.svg'
 
 const Card = ({item: {id,title,body,image}}) => {
   return (
